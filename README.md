@@ -1,10 +1,10 @@
 # Clone_coding
 
 * 💨[Canvas](https://mingnana.github.io/Clone/clone/canvas/index.html) 
-* **강의 : 노마드코더 캔버스 클론코딩**
+* 강의 : 노마드코더 캔버스 클론코딩
 
 
-## 📆프로젝트 기간
+프로젝트 기간
 -
 * 2022.02.05
 
