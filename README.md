@@ -1,6 +1,6 @@
 # Clone_coding
 
-## 💨[Canvas](https://mingnana.github.io/Clone/clone/canvas/index.html) 
+## 💨[Canvas](https://mingnana.github.io/Clone/clone/canvas/index.html)
 
 **노마드코더 캔버스 클론코딩**
 
